@@ -1,11 +1,11 @@
-palabra1 = input()
-palabra2 = input()
-i = 0;
+p1 = input()
+p2 = input()
 
-if len(palabra1) == len(palabra2):
-    for i in range(len(palabra1)):
-        x = palabra1[i]
-        y = 0;
-        if x == palabra2[]
+p1.lower()
+p2.lower()
+
+if len(p1) == len(p2) and sorted(p1) == sorted(p2):
+    print("Son anagramas!")
 else:
-    print("False")
+    print("No son wajjj")
+
