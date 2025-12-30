@@ -1,7 +1,7 @@
 #Anagrama
 
-p1 = input()
-p2 = input()
+p1 = input("Ingrese primera palabra: ")
+p2 = input("Ingrese segunda palabra: ")
 
 p1.lower()
 p2.lower()
